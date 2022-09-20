@@ -1,0 +1,19 @@
+{
+    "appbar": {
+        "title": "Barkod veya QR"
+    },
+    "qr": {
+        "create": "QR kodu oluştur",
+        "scan": "QR kodunu tara",
+        "start": "QR taramasını başlatın",
+        "result": "Tarama sonucu",
+        "enterData": "Verileri Girin"
+    },
+    "barcode": {
+        "create": "Barkod Oluştur",
+        "scan": "Barkod tara",
+        "start": "Barkod taramasını başlat",
+        "result": "Tarama sonucu",
+        "enterData": "Verileri Girin"
+    }
+}

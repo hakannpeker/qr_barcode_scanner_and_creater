@@ -1,0 +1,19 @@
+{
+    "appbar": {
+        "title": "Barcode Or QR"
+    },
+    "qr": {
+        "create": "Create QR Code",
+        "scan": "Scan QR Code",
+        "start": "Start QR Scan",
+        "result": "Scan Result",
+        "enterData": "Enter the data"
+    },
+    "barcode": {
+        "create": "Create Barcode",
+        "scan": "Scan Barcode",
+        "start": "Start Barcode Scan",
+        "result": "Scan Result",
+        "enterData": "Enter the data"
+    }
+}
