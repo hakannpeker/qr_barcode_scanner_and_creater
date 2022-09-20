@@ -1,12 +1,11 @@
 import 'package:easy_localization/easy_localization.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'core/provider/change_language.dart';
-import 'product/init/product_init.dart';
 
-import 'core/provider/change_theme.dart';
 import 'core/init/navigation/navigation_route.dart';
 import 'core/init/navigation/navigation_service.dart';
+import 'core/provider/change_theme.dart';
+import 'product/init/product_init.dart';
 import 'view/barcode_or_qr.dart';
 
 Future<void> main() async {

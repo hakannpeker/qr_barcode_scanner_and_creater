@@ -3,7 +3,6 @@ import '../../core/extension/string_extension.dart';
 import '../../core/init/lang/locale_keys.g.dart';
 
 import '../../core/init/navigation/navigation_service.dart';
-import '../../product/constants/enum/barcode_keys.dart';
 import '../../product/constants/navigation/navigation_constants.dart';
 import '../../product/widget/button_widget.dart';
 

@@ -1,8 +1,7 @@
 import 'package:flutter/material.dart';
+
 import '../../core/extension/string_extension.dart';
 import '../../core/init/lang/locale_keys.g.dart';
-
-import '../constants/enum/qr_keys.dart';
 
 class CustomTextField extends StatelessWidget {
   const CustomTextField({

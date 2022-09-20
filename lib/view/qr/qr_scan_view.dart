@@ -4,7 +4,6 @@ import 'package:flutter_barcode_scanner/flutter_barcode_scanner.dart';
 import '../../core/extension/string_extension.dart';
 import '../../core/init/lang/locale_keys.g.dart';
 
-import '../../product/constants/enum/qr_keys.dart';
 import 'create_or_scan_page.dart';
 
 class QRScanView extends StatefulWidget {

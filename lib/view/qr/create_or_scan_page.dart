@@ -1,11 +1,9 @@
-import 'package:easy_localization/easy_localization.dart';
 import 'package:flutter/material.dart';
 import '../../core/extension/string_extension.dart';
 import '../../core/init/lang/locale_keys.g.dart';
 
 import '../../core/init/navigation/navigation_service.dart';
 import '../../product/constants/navigation/navigation_constants.dart';
-import '../../product/constants/enum/qr_keys.dart';
 
 class QRPage extends StatelessWidget {
   const QRPage({Key? key}) : super(key: key);
